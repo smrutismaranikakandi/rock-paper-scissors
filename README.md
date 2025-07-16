@@ -3,14 +3,7 @@
 A fun and simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.  
 It starts with a welcome screen and keeps track of your score against the computer.
 
----
 
-## 🚀 Play Here
-👉 [Play the game!](https://github.com/smrutismaranikakandi/rock-paper-scissors/) 
-
-> *(Replace this link with your GitHub Pages or Netlify URL after you deploy.)*
-
----
 
 ## 💻 Features
 - Let’s Play screen before the game starts
