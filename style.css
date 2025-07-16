@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.welcome-screen, .container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 2rem;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    width: 90%;
+    max-width: 500px;
+}
+
+.welcome-screen h1 {
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+#start-game {
+    background: #6e8efb;
+    color: #fff;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#start-game:hover {
+    background: #a777e3;
+    transform: scale(1.1);
+}
+
+h1 {
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+.score-board {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.choices {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+}
+
+.choice {
+    background: #6e8efb;
+    color: #fff;
+    border: none;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.choice:hover {
+    background: #a777e3;
+    transform: scale(1.1);
+}
+
+.result h2 {
+    margin-bottom: 1rem;
+    color: #555;
+}
+
+.result p {
+    font-size: 1.1rem;
+    color: #444;
+}
