@@ -6,7 +6,7 @@ It starts with a welcome screen and keeps track of your score against the comput
 ---
 
 ## 🚀 Play Here
-👉 [Play the game!](https://github.com/smrutismaranikakandi/rock-paper-scissors.git/) 
+👉 [Play the game!](https://github.com/smrutismaranikakandi/rock-paper-scissors/) 
 
 > *(Replace this link with your GitHub Pages or Netlify URL after you deploy.)*
 
